@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hola+there!;Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Web+en+progreso" />
+  </a>
+</h1>
 
-<!--
-**ProyectosCarfa/ProyectosCarfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Hola, soy Carlos Alvines 👾</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Estudiante de Ingeniería de Sistemas e Informática en Perú 🇵🇪.  Desarrollador web en formación con enfoque en tecnologías modernas.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  💻 Experiencia en desarrollo con Next.js <br/>
+  📚 Aprendizaje continuo en frameworks y herramientas actuales <br/>
+  🚀 Interesado en crear aplicaciones web dinámicas y funcionales <br/>
+  🎮 Aficionado a los videojuegos
+</p>
+
+<p align="center" style="color: #ffffff;">
+  <a href="https://github.com/ProyectosCarfa">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin: 10px;" />
+  </a>
+
+  <a href="https://TU-PORTAFOLIO.vercel.app">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" style="margin: 10px;" />
+  </a>
+
+  <a href="https://instagram.com/TU_USUARIO">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin: 10px;" />
+  </a>
+</p>
+<hr>
+
+<h1 align="center"> 🔥 Lenguajes, marcos de trabajo y herramientas 🔥</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,react,tailwind,git,github,mysql,postgres,php,express,vscode,figma" />
+  </a>
+</p>
+
+
+
+
+<h1></h1>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ProyectosCarfa&theme=rust-ferris-dark&hide_border=true&short_numbers=false" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ProyectosCarfa&show_icons=true&theme=radical" />
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProyectosCarfa&layout=compact&theme=radical" />
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ProyectosCarfa&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
