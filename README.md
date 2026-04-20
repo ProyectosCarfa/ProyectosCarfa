@@ -42,37 +42,6 @@
 </p>
 
 
-<div id="canvas-container"></div>
-
-<!-- Importmap: Define de dónde vienen las librerías -->
-<script type="importmap">
-    {
-        "imports": {
-            "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
-            "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
-        }
-    }
-</script>
-
-
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    background-color: #050510;
-    overflow: hidden;
-}
-
-#canvas-container {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 1;
-}
-</style>
-
 <h1></h1>
 <p align="center">
   <a href="https://git.io/streak-stats">
