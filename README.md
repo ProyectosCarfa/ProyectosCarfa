@@ -52,7 +52,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProyectosCarfa&show_icons=true&theme=radical)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/79ce8fd5-ba03-4d0d-9e0a-a194c129fe6e" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProyectosCarfa&layout=compact&theme=radical)
 
