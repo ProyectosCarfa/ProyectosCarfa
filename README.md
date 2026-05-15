@@ -51,9 +51,9 @@
 <h1></h1>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ProyectosCarfa&show_icons=true&theme=radical" />
-  <br/>
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ProyectosCarfa&show_icons=true&theme=radical" />
+  
+  <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProyectosCarfa&layout=compact&theme=radical" />
 </p>
