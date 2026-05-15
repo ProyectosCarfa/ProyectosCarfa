@@ -48,6 +48,8 @@
     <img src="https://streak-stats.demolab.com?user=ProyectosCarfa&theme=rust-ferris-dark&hide_border=true&short_numbers=false" alt="GitHub Streak" />
   </a>
 </p>
+<h1></h1>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ProyectosCarfa&show_icons=true&theme=radical" />
   <br/>
