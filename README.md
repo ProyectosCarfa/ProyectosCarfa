@@ -56,7 +56,7 @@
         <img 
   src="https://github.com/user-attachments/assets/de2dc489-dcc9-43fa-b02f-f9536aea7c1c" 
   width="500"
-  height="770"
+  height="750"
 />
       </td>
       <td>
