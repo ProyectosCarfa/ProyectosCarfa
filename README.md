@@ -55,13 +55,13 @@
       <td>
         <img 
           src="https://github.com/user-attachments/assets/de2dc489-dcc9-43fa-b02f-f9536aea7c1c" 
-          width="420"
+          width="500"
         />
       </td>
       <td>
         <img 
           src="https://github.com/user-attachments/assets/cd65961a-cb86-4785-a35a-94c03f119f10" 
-          width="280"
+          width="400"
         />
       </td>
     </tr>
