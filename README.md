@@ -24,7 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin: 10px;" />
   </a>
 
-  <a href="https://TU-PORTAFOLIO.vercel.app">
+  <a href="https://my-portfolio-flax-theta-76.vercel.app/">
     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" style="margin: 10px;" />
   </a>
 
