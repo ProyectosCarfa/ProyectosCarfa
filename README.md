@@ -49,12 +49,8 @@
   </a>
 </p>
 <h1></h1>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/de2dc489-dcc9-43fa-b02f-f9536aea7c1c" />
 
-<div align="center">
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/79ce8fd5-ba03-4d0d-9e0a-a194c129fe6e" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProyectosCarfa&layout=compact&theme=radical)
 
 </div>
 
