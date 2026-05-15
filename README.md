@@ -28,7 +28,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" style="margin: 10px;" />
   </a>
 
-  <a href="https://instagram.com/TU_USUARIO">
+  <a href="https://instagram.com/cf.alv.dev">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin: 10px;" />
   </a>
 </p>
