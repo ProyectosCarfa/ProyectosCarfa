@@ -50,13 +50,13 @@
 </p>
 <h1></h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProyectosCarfa&show_icons=true&theme=radical" />
-  
-  <br><br>
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProyectosCarfa&layout=compact&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProyectosCarfa&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProyectosCarfa&layout=compact&theme=radical)
+
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ProyectosCarfa&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
