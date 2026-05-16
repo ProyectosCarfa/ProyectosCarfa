@@ -59,7 +59,10 @@
 />
       </td>
       <td>
-
+        <img 
+          src="https://github.com/user-attachments/assets/cd65961a-cb86-4785-a35a-94c03f119f10" 
+          width="400"
+        />
       </td>
     </tr>
   </table>
