@@ -16,7 +16,7 @@
   💻 Experiencia en desarrollo con Next.js <br/>
   📚 Aprendizaje continuo en frameworks y herramientas actuales <br/>
   🚀 Interesado en crear aplicaciones web dinámicas y funcionales <br/>
-  🎮 Aficionado a los videojuegos
+  🎮 Aficionado a los videojuegos y gamer.
 </p>
 
 <p align="center" style="color: #ffffff;">
