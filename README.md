@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>Hola,¿Como estan?, soy Carlos Alvines 👾</strong>
+  <strong>Hola,¿Como estan?, soy Carlos Alvines </strong>
 </p>
 
 <p align="center">
