@@ -1,92 +1,138 @@
-<h1 align="center">Hello Coders!! 👋</h1>
-
-![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
-
-## 👨‍💻 About Me
-
-Hi, I'm Kishan 👋  
-- A Software Engineer at **Wipro 💼**, passionate about building real-world tech solutions and solving complex problems 🧩  
-- I work across **Python, C++, and Embedded/Qt systems ⚙️**, and love turning ideas into practical products 🚀  
-- Beyond coding, I enjoy **sharing knowledge 🎙️**, creating content, and collaborating with fellow developers 🤝  
-- Always open to meaningful conversations around tech, learning, and innovation ✨
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hola+there!;Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Web+en+progreso&color=FFFFFF" />
+  </a>
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishanrajput23&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/kishanrajput23?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/kishanrajput23?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src="https://komarev.com/ghpvc/?username=ProyectosCarfa&label=Vistas%20al%20perfil&color=0e75b6&style=flat" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ProyectosCarfa?label=Seguidores&style=social" />
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ProyectosCarfa?label=Estrellas&style=social" />
 </p>
 
+---
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kishanrajput23&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/kishanrajput23)
+## 👋 Sobre mí
 
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
-</a>
-
-- 🔭 I’m currently improving my **problem-solving skills**
-
-- 🌱 I’m currently learning **Data Structure & Algorithms**
-
-- 👯 I’m looking to collaborate on **development-focused projects**
-
-- 📝 I write technical blogs on **[Medium](https://kishan-rai99693.medium.com)**
-
-- 💬 Happy to discuss about **coding, projects, or learning paths**
-
-- 📫 Reach me at **kishan.rai99693@gmail.com**
-
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-
-- ⚡ Fun fact **I enjoy explaining complex things in simple ways**
-
-<a target="_blank">
-  <img align="right" height="200" width="400" alt="GIF" src="https://ansarshome.files.wordpress.com/2021/09/d3464a4351fdf340ccb6bb37c281381a.gif">
-</a>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [MLH Global Hack Week](https://kishan-rai99693.medium.com/mlh-global-hack-week-f26735cf8ba6?source=rss-798a94539838------2)
-- [Top 5 Games That Help You To Learn Coding](https://kishan-rai99693.medium.com/top-5-games-that-help-you-to-learn-coding-f17f2b4efc61?source=rss-798a94539838------2)
-- [50 Days of Consistency](https://kishan-rai99693.medium.com/50-days-of-consistency-d3400c208fb9?source=rss-798a94539838------2)
-- [Introduction To Artificial Intelligence](https://kishan-rai99693.medium.com/introduction-to-artificial-intelligence-ab5caa846752?source=rss-798a94539838------2)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/kishanrajput23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kishanrajput23" height="30" width="40" /></a>
-<a href="https://dev.to/kishanrajput23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kishanrajput23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kishan-kumar-rai-23112000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-kumar-rai-23112000" height="30" width="40" /></a>
-<a href="https://kaggle.com/kishanrajput23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kishanrajput23" height="30" width="40" /></a>
-<a href="https://fb.com/kishan.kumarrai.79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kishan.kumarrai.79" height="30" width="40" /></a>
-<a href="https://instagram.com/kishan_rajput23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishan_rajput23" height="30" width="40" /></a>
-<a href="https://twitter.com/kishan_rajput23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kishan_rajput23" height="30" width="40" /></a>
-<a href="https://kishan-rai99693.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kishan-rai99693" height="30" width="40" /></a>
-<a href="https://youtube.com/codingbuddies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingbuddies" height="30" width="40" /></a>
-<a href="https://hackerrank.com/kishan_rai99693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kishan_rai99693" height="30" width="40" /></a>
-<a href="https://leetcode.com/kishan_rajput23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishan_rajput23" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kishanrajput23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kishanrajput23" height="30" width="40" /></a>
+<p align="center">
+  <strong>Hola, ¿Cómo están? Soy Carlos Alvines</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/qt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+<p align="center">
+  Estudiante de Ingeniería de Sistemas e Informática en Perú 🇵🇪. Desarrollador web en formación con enfoque en tecnologías modernas.
+</p>
+
+<p align="center">
+  💻 Experiencia en desarrollo con Next.js <br/>
+  📚 Aprendizaje continuo en frameworks y herramientas actuales <br/>
+  🚀 Interesado en crear aplicaciones web dinámicas y funcionales <br/>
+  🎮 Aficionado a los videojuegos y gamer.
+</p>
+
+<a target="_blank">
+  <img align="right" height="200" width="250" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycjNzeXR3Nnd5aGF5ZDlmYmhwbHp1Y2UwOWRzMHg4YnNub3JrNnZweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200.gif">
+</a>
+
+* ⭐ Actualmente estoy mejorando mis **habilidades para resolver problemas**
+
+* 👾 Actualmente estoy aprendiendo **Estructura de datos y algoritmos**
+
+*🔥 Actualmente estoy haciendo un Asistente virtual llamado Jarvis*
+
+* 👯 Busco colaborar en **proyectos centrados en el desarrollo**
+
+* 💬 Encantado de hablar sobre **codificación, proyectos o rutas de aprendizaje**
+
+* 📫 Comuníquese conmigo en **alvinescarlos887@gmail.com*
+
+* 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+
+* ⚡ Dato curioso **Disfruto explicando cosas complejas de manera sencilla**
+
+<a target="_blank">
+  <img align="right" height="200" width="250" alt="GIF" src="https://i.pinimg.com/originals/44/34/94/443494c1152de9cae9d9060409646ac6.gif">
+</a>
+
+
 
 
 <p align="center">
-  <img height="130" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png"/>
-  <img height="180" width="400"
-       src="https://github-streak-stats-ruby.vercel.app/?user=kishanrajput23&theme=radical"/>
-  <img height="130" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png"/>
+  <a href="https://github.com/ProyectosCarfa">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin: 10px;" />
+  </a>
+  <a href="https://proyectoscarfa.github.io/Mi-Portafolio/">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" style="margin: 10px;" />
+  </a>
+  <a href="https://instagram.com/cf.alv.dev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin: 10px;" />
+  </a>
 </p>
 
-<!-- Snake Animation -->
+---
+
+## 🧰 Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,react,tailwind,git,github,mysql,postgres,php,express,vscode,figma" />
+</p>
+
+---
+
+## 📊 Mi racha de contribuciones
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🔥 Total Contribuciones</h3>
+        <p style="font-size: 2em; font-weight: bold;">164</p>
+        <p>Jul 26, 2025 - Presente</p>
+      </td>
+      <td align="center">
+        <h3>⚡ Racha Actual</h3>
+        <p style="font-size: 2em; font-weight: bold;">4</p>
+        <p>May 28 - May 31</p>
+      </td>
+      <td align="center">
+        <h3>🏆 Racha Más Larga</h3>
+        <p style="font-size: 2em; font-weight: bold;">5</p>
+        <p>May 12 - May 16</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="150" alt="left" src="https://github.com/user-attachments/assets/aa769ead-cb39-4e01-87e1-51357e6a5d8e" />
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ProyectosCarfa&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" />
+  </a>
+  
+  <img width="150" alt="right" src="https://github.com/user-attachments/assets/09d712ba-66af-42d0-8ca2-cdd2705fd2ed" />
+</div>
+
+---
+
+## 📈 Actividad reciente
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ProyectosCarfa&theme=github-dark&bg_color=000000&color=ffffff&line=2E9AFE&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribuciones animadas
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+---
 
-</div>
-
-![footer](https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png)
+<p align="center">
+  <i>"Si lo puedes imaginar, lo puedes programar"</i>
+</p>
+<p align="center">
+  <img width="80%" alt="footer" src="https://github.com/user-attachments/assets/b64725ba-ce2e-437a-b4b0-2caf66af18e0" />
+</p>
