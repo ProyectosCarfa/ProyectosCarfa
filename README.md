@@ -50,22 +50,7 @@
 </p>
 <h1></h1>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img 
-  src="https://github.com/user-attachments/assets/de2dc489-dcc9-43fa-b02f-f9536aea7c1c" 
-  width="600"
-/>
-      </td>
-      <td>
-        <img 
-          src="https://github.com/user-attachments/assets/cd65961a-cb86-4785-a35a-94c03f119f10" 
-          width="400"
-        />
-      </td>
-    </tr>
-  </table>
+
 
   <h1></h1>
 </div>
