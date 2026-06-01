@@ -43,17 +43,16 @@
 
 
 <h1></h1>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ProyectosCarfa&theme=rust-ferris-dark&hide_border=true&short_numbers=false" alt="GitHub Streak" />
-  </a>
-</p>
-<h1></h1>
-<div align="center">
+<div>
+  <img width="329" height="234" alt="left" src="https://github.com/user-attachments/assets/aa769ead-cb39-4e01-87e1-51357e6a5d8e" />
+  <p align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=ProyectosCarfa&theme=rust-ferris-dark&hide_border=true&short_numbers=false" alt="GitHub Streak" />
+      </a>
+    </p>
+  <img width="326" height="230" alt="right" src="https://github.com/user-attachments/assets/09d712ba-66af-42d0-8ca2-cdd2705fd2ed" />
 
-
-  <h1></h1>
-</div>
+  </div>
 <h1></h1>
 </div>
 
