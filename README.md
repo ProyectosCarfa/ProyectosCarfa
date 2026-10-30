@@ -122,11 +122,13 @@
 
 ---
 
-## 🐍 Contribuciones animadas
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/proyectoscarfa/proyectoscarfa/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/proyectoscarfa/proyectoscarfa/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/proyectoscarfa/proyectoscarfa/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+###
 
 ---
 
